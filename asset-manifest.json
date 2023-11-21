@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/motel/static/css/main.91eb2e57.css",
+    "main.js": "/motel/static/js/main.e2637086.js",
+    "static/media/mot2.jpg": "/motel/static/media/mot2.5db9b8ad3eb2a58288a6.jpg",
+    "static/media/gu (3).jpg": "/motel/static/media/gu (3).870cf49c93bf20beb62d.jpg",
+    "static/media/gu (5).jpg": "/motel/static/media/gu (5).6b97c019b1a7e5b299ca.jpg",
+    "static/media/bootstrap-icons.woff?": "/motel/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/motel/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/gu (2).jpg": "/motel/static/media/gu (2).21ff259f670480052a5a.jpg",
+    "static/media/mot5.jpg": "/motel/static/media/mot5.53eb7630bf725b6f25c1.jpg",
+    "static/media/gu (4).jpg": "/motel/static/media/gu (4).7042303209326e7a23f8.jpg",
+    "static/media/mot4.webp": "/motel/static/media/mot4.6a5e362ad2b58fe14910.webp",
+    "index.html": "/motel/index.html",
+    "main.91eb2e57.css.map": "/motel/static/css/main.91eb2e57.css.map",
+    "main.e2637086.js.map": "/motel/static/js/main.e2637086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91eb2e57.css",
+    "static/js/main.e2637086.js"
+  ]
+}
