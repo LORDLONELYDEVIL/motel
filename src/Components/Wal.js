@@ -22,7 +22,7 @@ const Wal = () => {
       <Carousel.Item>
       <img
         style={{height:'75vh'}}
-        className='d-block w-100 w-lg-90'
+        className='d-block w-100 '
         src={G2}
          text="First slide" />
         <Carousel.Caption>
