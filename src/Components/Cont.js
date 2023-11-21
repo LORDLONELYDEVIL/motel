@@ -18,7 +18,7 @@ const Cont = () => {
     
     </Container>
     <br></br>
-    <br></br>
+    
     <Container>
       
       <Row >
